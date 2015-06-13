@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "scrabble-board": "0.0.1"
   }
 }
