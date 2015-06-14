@@ -34,3 +34,4 @@ function sum (a, b) {
 }
 
 module.exports = wordScore
+module.exports.letterScores = letterScores
